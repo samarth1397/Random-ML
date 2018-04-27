@@ -5,6 +5,7 @@ Code written as part of the Machine Learning and Data Mining courses at BITS Goa
 * Titanic survival prediction (classification)
 * Boston Housing Prices Predicition (regression)
 * Abalone data set (regression)
+* Naive Bayes Classification
 
 
 ## Data Mining
